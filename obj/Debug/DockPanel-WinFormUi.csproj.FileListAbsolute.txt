@@ -1,0 +1,14 @@
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\obj\Debug\DockPanel-WinFormUi.csprojAssemblyReference.cache
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\obj\Debug\DockPanel-WinFormUi.csproj.GenerateResource.cache
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\obj\Debug\DockPanel.WinFormUi.DockContent.resources
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\obj\Debug\DockPanel.WinFormUi.MDIParent.resources
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\bin\Debug\DockPanel.WinFormUi.exe.config
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\bin\Debug\DockPanel.WinFormUi.exe
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\bin\Debug\DockPanel.WinFormUi.pdb
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\bin\Debug\FormsCtrlLib.dll
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\bin\Debug\FormsCtrlLib.pdb
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\obj\Debug\DockPanel-WinFormUi.csproj.CopyComplete
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\obj\Debug\DockPanel.WinFormUi.exe
+D:\Dev-Center\Visual-Studio\DockPanel-WinFormUi\obj\Debug\DockPanel.WinFormUi.pdb

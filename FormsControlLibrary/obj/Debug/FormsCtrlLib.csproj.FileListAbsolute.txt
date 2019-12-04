@@ -1,0 +1,7 @@
+D:\Dev-Center\Visual-Studio\DokaWin001\FormsControlLibrary\obj\Debug\FormsCtrlLib.csprojAssemblyReference.cache
+D:\Dev-Center\Visual-Studio\DokaWin001\FormsControlLibrary\bin\Debug\FormsCtrlLib.dll
+D:\Dev-Center\Visual-Studio\DokaWin001\FormsControlLibrary\bin\Debug\FormsCtrlLib.pdb
+D:\Dev-Center\Visual-Studio\DokaWin001\FormsControlLibrary\obj\Debug\FormsCtrlLib.dll
+D:\Dev-Center\Visual-Studio\DokaWin001\FormsControlLibrary\obj\Debug\FormsCtrlLib.pdb
+D:\Dev-Center\Visual-Studio\DokaWin001\FormsControlLibrary\obj\Debug\FormsCtrlLib.AboutDialFormCtrl.resources
+D:\Dev-Center\Visual-Studio\DokaWin001\FormsControlLibrary\obj\Debug\FormsCtrlLib.csproj.GenerateResource.cache

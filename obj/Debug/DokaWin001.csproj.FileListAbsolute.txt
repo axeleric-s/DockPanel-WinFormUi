@@ -1,0 +1,14 @@
+D:\Dev-Center\Visual-Studio\DokaWin001\obj\Debug\DokaWin001.csprojAssemblyReference.cache
+D:\Dev-Center\Visual-Studio\DokaWin001\obj\Debug\DokaWin001.csproj.GenerateResource.cache
+D:\Dev-Center\Visual-Studio\DokaWin001\bin\Debug\DokaWin001.exe.config
+D:\Dev-Center\Visual-Studio\DokaWin001\bin\Debug\DokaWin001.exe
+D:\Dev-Center\Visual-Studio\DokaWin001\bin\Debug\DokaWin001.pdb
+D:\Dev-Center\Visual-Studio\DokaWin001\obj\Debug\DokaWin001.MDIParent.resources
+D:\Dev-Center\Visual-Studio\DokaWin001\obj\Debug\DokaWin001.exe
+D:\Dev-Center\Visual-Studio\DokaWin001\obj\Debug\DokaWin001.pdb
+D:\Dev-Center\Visual-Studio\DokaWin001\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Dev-Center\Visual-Studio\DokaWin001\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\Dev-Center\Visual-Studio\DokaWin001\obj\Debug\DokaWin001.csproj.CopyComplete
+D:\Dev-Center\Visual-Studio\DokaWin001\bin\Debug\FormsCtrlLib.dll
+D:\Dev-Center\Visual-Studio\DokaWin001\bin\Debug\FormsCtrlLib.pdb
+D:\Dev-Center\Visual-Studio\DokaWin001\obj\Debug\DokaWin001.DockContent.resources
